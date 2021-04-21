@@ -1,6 +1,3 @@
-# FEC
-Front End Capstone Project
-
 ### Project Catwalk
 Modernize a client-facing retail web-portal to increase sales.
 
@@ -15,24 +12,11 @@ https://github.com/KyleJohnson42
 - [Krista]
 https://github.com/sereigh
 
-## Table of Contents
-
-1. [Usage](#Usage)
-2. [Requirements](#requirements)
-3. [Development](#development)
-
-## Requirements
-
->Requirements here.
-
-## Development
-
->Development here.
-
-### Installing Dependencies
+### Starting the application:
 
 From within the root directory:
 
-``
+```
 npm install
-``
+npm start
+```
